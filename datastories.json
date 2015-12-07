@@ -23,34 +23,15 @@
             "day": "13"
         },
         "media": {
-            "url": "<iframe src='https://masterqunb.herokuapp.com/story/5640826f82a3630300dea277/view' frameborder='0'></iframe>",
+            "url": "<iframe src='https://masterqunb.herokuapp.com/story/56656649101a9003001a1ad4/view' frameborder='0'></iframe>",
             "thumbnail": ""
         },
         "text": {
             "headline": "Semaine #15"
 
         }
-    },{
-        "start_date": {
-            "year": "2014",
-            "month": "04",
-            "day": "07"
-        },
-        "end_date": {
-            "year": "2014",
-            "month": "04",
-            "day": "27"
-        },
-        "media": {
-            "url": "<iframe src='https://masterqunb.herokuapp.com/story/5640826f82a3630300dea277/view' frameborder='0'></iframe>",
-            "thumbnail": ""
-        },
-        "text": {
-            "headline": "Mon evenement"
-
-        }
-    }
-    , {
+    },
+    {
         "start_date": {
             "year": "2014",
             "month": "04",
@@ -62,7 +43,7 @@
             "day": "20"
         },
         "media": {
-            "url": "<iframe src='https://masterqunb.herokuapp.com/story/5640827f917c2c0300d7e3d6/view' frameborder='0'></iframe>",
+            "url": "<iframe src='https://masterqunb.herokuapp.com/story/56656656c0d0c40300c54d68/view' frameborder='0'></iframe>",
             "thumbnail": ""
         },
         "text": {
