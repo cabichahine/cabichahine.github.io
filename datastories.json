@@ -7,7 +7,7 @@
       "thumbnail" : ""
     },
     "text" : {
-      "headline" : "EverContact.com - Rapports hebdomadaires (Semaine #21 à #22)",
+      "headline" : "EverContact.com - Rapports hebdomadaires (Semaine #21 à #26)",
       "text" : ""
     }
   },
@@ -25,7 +25,7 @@
     "media" : {
       "caption" : "",
       "credit" : "",
-      "url" : "<iframe src='https://masterqunb.herokuapp.com/story/56ae6c0a4160270300b72054/view#' frameborder='0'></iframe>",
+      "url" : "<iframe src='https://masterqunb.herokuapp.com/story/56af579015cd740300d361fd/view#' frameborder='0'></iframe>",
       "thumbnail" : ""
     },
     "text" : {
@@ -47,7 +47,7 @@
     "media" : {
       "caption" : "",
       "credit" : "",
-      "url" : "<iframe src='https://masterqunb.herokuapp.com/story/56ae6c0b2dfe5c03000d8891/view#' frameborder='0'></iframe>",
+      "url" : "<iframe src='https://masterqunb.herokuapp.com/story/56af57912dfe5c03000d8892/view#' frameborder='0'></iframe>",
       "thumbnail" : ""
     },
     "text" : {
@@ -69,7 +69,7 @@
     "media" : {
       "caption" : "",
       "credit" : "",
-      "url" : "<iframe src='https://masterqunb.herokuapp.com/story/56ae6c0c4160270300b72055/view#' frameborder='0'></iframe>",
+      "url" : "<iframe src='https://masterqunb.herokuapp.com/story/56af57922dfe5c03000d8893/view#' frameborder='0'></iframe>",
       "thumbnail" : ""
     },
     "text" : {
@@ -91,11 +91,363 @@
     "media" : {
       "caption" : "",
       "credit" : "",
-      "url" : "<iframe src='https://masterqunb.herokuapp.com/story/56ae6c0d4160270300b72056/view#' frameborder='0'></iframe>",
+      "url" : "<iframe src='https://masterqunb.herokuapp.com/story/56af57932dfe5c03000d8894/view#' frameborder='0'></iframe>",
       "thumbnail" : ""
     },
     "text" : {
       "headline" : "<span style='background-color: #E69795'>Semaine #21 - Acquisition</span>",
+      "text" : ""
+    },
+    "group" : "Acquisition"
+  }, {
+    "start_date" : {
+      "year" : "2014",
+      "month" : "4",
+      "day" : "26"
+    },
+    "end_date" : {
+      "year" : "2014",
+      "month" : "5",
+      "day" : "1"
+    },
+    "media" : {
+      "caption" : "",
+      "credit" : "",
+      "url" : "<iframe src='https://masterqunb.herokuapp.com/story/56af57a82dfe5c03000d8895/view#' frameborder='0'></iframe>",
+      "thumbnail" : ""
+    },
+    "text" : {
+      "headline" : "<span style='background-color: #E69795'>Semaine #22 - Voix des clients</span>",
+      "text" : ""
+    },
+    "group" : "Voix des clients"
+  }, {
+    "start_date" : {
+      "year" : "2014",
+      "month" : "4",
+      "day" : "26"
+    },
+    "end_date" : {
+      "year" : "2014",
+      "month" : "5",
+      "day" : "1"
+    },
+    "media" : {
+      "caption" : "",
+      "credit" : "",
+      "url" : "<iframe src='https://masterqunb.herokuapp.com/story/56af57a915cd740300d361fe/view#' frameborder='0'></iframe>",
+      "thumbnail" : ""
+    },
+    "text" : {
+      "headline" : "<span style='background-color: #1EFF53'>Semaine #22 - Commercialisation</span>",
+      "text" : ""
+    },
+    "group" : "Commercialisation"
+  }, {
+    "start_date" : {
+      "year" : "2014",
+      "month" : "4",
+      "day" : "26"
+    },
+    "end_date" : {
+      "year" : "2014",
+      "month" : "5",
+      "day" : "1"
+    },
+    "media" : {
+      "caption" : "",
+      "credit" : "",
+      "url" : "<iframe src='https://masterqunb.herokuapp.com/story/56af57a915cd740300d361ff/view#' frameborder='0'></iframe>",
+      "thumbnail" : ""
+    },
+    "text" : {
+      "headline" : "<span style='background-color: #E69795'>Semaine #22 - Attrition</span>",
+      "text" : ""
+    },
+    "group" : "Attrition"
+  }, {
+    "start_date" : {
+      "year" : "2014",
+      "month" : "4",
+      "day" : "26"
+    },
+    "end_date" : {
+      "year" : "2014",
+      "month" : "5",
+      "day" : "1"
+    },
+    "media" : {
+      "caption" : "",
+      "credit" : "",
+      "url" : "<iframe src='https://masterqunb.herokuapp.com/story/56af57aa15cd740300d36200/view#' frameborder='0'></iframe>",
+      "thumbnail" : ""
+    },
+    "text" : {
+      "headline" : "<span style='background-color: #E69795'>Semaine #22 - Acquisition</span>",
+      "text" : ""
+    },
+    "group" : "Acquisition"
+  }, {
+    "start_date" : {
+      "year" : "2014",
+      "month" : "5",
+      "day" : "2"
+    },
+    "end_date" : {
+      "year" : "2014",
+      "month" : "5",
+      "day" : "8"
+    },
+    "media" : {
+      "caption" : "",
+      "credit" : "",
+      "url" : "<iframe src='https://masterqunb.herokuapp.com/story/56af57be15cd740300d36201/view#' frameborder='0'></iframe>",
+      "thumbnail" : ""
+    },
+    "text" : {
+      "headline" : "<span style='background-color: #E69795'>Semaine #23 - Voix des clients</span>",
+      "text" : ""
+    },
+    "group" : "Voix des clients"
+  }, {
+    "start_date" : {
+      "year" : "2014",
+      "month" : "5",
+      "day" : "2"
+    },
+    "end_date" : {
+      "year" : "2014",
+      "month" : "5",
+      "day" : "8"
+    },
+    "media" : {
+      "caption" : "",
+      "credit" : "",
+      "url" : "<iframe src='https://masterqunb.herokuapp.com/story/56af57bf15cd740300d36202/view#' frameborder='0'></iframe>",
+      "thumbnail" : ""
+    },
+    "text" : {
+      "headline" : "<span style='background-color: #E69795'>Semaine #23 - Commercialisation</span>",
+      "text" : ""
+    },
+    "group" : "Commercialisation"
+  }, {
+    "start_date" : {
+      "year" : "2014",
+      "month" : "5",
+      "day" : "2"
+    },
+    "end_date" : {
+      "year" : "2014",
+      "month" : "5",
+      "day" : "8"
+    },
+    "media" : {
+      "caption" : "",
+      "credit" : "",
+      "url" : "<iframe src='https://masterqunb.herokuapp.com/story/56af57c02dfe5c03000d8896/view#' frameborder='0'></iframe>",
+      "thumbnail" : ""
+    },
+    "text" : {
+      "headline" : "<span style='background-color: #E69795'>Semaine #23 - Attrition</span>",
+      "text" : ""
+    },
+    "group" : "Attrition"
+  }, {
+    "start_date" : {
+      "year" : "2014",
+      "month" : "5",
+      "day" : "2"
+    },
+    "end_date" : {
+      "year" : "2014",
+      "month" : "5",
+      "day" : "8"
+    },
+    "media" : {
+      "caption" : "",
+      "credit" : "",
+      "url" : "<iframe src='https://masterqunb.herokuapp.com/story/56af57c12dfe5c03000d8897/view#' frameborder='0'></iframe>",
+      "thumbnail" : ""
+    },
+    "text" : {
+      "headline" : "<span style='background-color: #E69795'>Semaine #23 - Acquisition</span>",
+      "text" : ""
+    },
+    "group" : "Acquisition"
+  }, {
+    "start_date" : {
+      "year" : "2014",
+      "month" : "5",
+      "day" : "9"
+    },
+    "end_date" : {
+      "year" : "2014",
+      "month" : "5",
+      "day" : "15"
+    },
+    "media" : {
+      "caption" : "",
+      "credit" : "",
+      "url" : "<iframe src='https://masterqunb.herokuapp.com/story/56af57d52dfe5c03000d8898/view#' frameborder='0'></iframe>",
+      "thumbnail" : ""
+    },
+    "text" : {
+      "headline" : "<span style='background-color: #E69795'>Semaine #24 - Voix des clients</span>",
+      "text" : ""
+    },
+    "group" : "Voix des clients"
+  }, {
+    "start_date" : {
+      "year" : "2014",
+      "month" : "5",
+      "day" : "9"
+    },
+    "end_date" : {
+      "year" : "2014",
+      "month" : "5",
+      "day" : "15"
+    },
+    "media" : {
+      "caption" : "",
+      "credit" : "",
+      "url" : "<iframe src='https://masterqunb.herokuapp.com/story/56af57d615cd740300d36203/view#' frameborder='0'></iframe>",
+      "thumbnail" : ""
+    },
+    "text" : {
+      "headline" : "<span style='background-color: #E69795'>Semaine #24 - Commercialisation</span>",
+      "text" : ""
+    },
+    "group" : "Commercialisation"
+  }, {
+    "start_date" : {
+      "year" : "2014",
+      "month" : "5",
+      "day" : "9"
+    },
+    "end_date" : {
+      "year" : "2014",
+      "month" : "5",
+      "day" : "15"
+    },
+    "media" : {
+      "caption" : "",
+      "credit" : "",
+      "url" : "<iframe src='https://masterqunb.herokuapp.com/story/56af57d715cd740300d36204/view#' frameborder='0'></iframe>",
+      "thumbnail" : ""
+    },
+    "text" : {
+      "headline" : "<span style='background-color: #E69795'>Semaine #24 - Attrition</span>",
+      "text" : ""
+    },
+    "group" : "Attrition"
+  }, {
+    "start_date" : {
+      "year" : "2014",
+      "month" : "5",
+      "day" : "9"
+    },
+    "end_date" : {
+      "year" : "2014",
+      "month" : "5",
+      "day" : "15"
+    },
+    "media" : {
+      "caption" : "",
+      "credit" : "",
+      "url" : "<iframe src='https://masterqunb.herokuapp.com/story/56af57d82dfe5c03000d8899/view#' frameborder='0'></iframe>",
+      "thumbnail" : ""
+    },
+    "text" : {
+      "headline" : "<span style='background-color: #1EFF53'>Semaine #24 - Acquisition</span>",
+      "text" : ""
+    },
+    "group" : "Acquisition"
+  }, {
+    "start_date" : {
+      "year" : "2014",
+      "month" : "5",
+      "day" : "16"
+    },
+    "end_date" : {
+      "year" : "2014",
+      "month" : "5",
+      "day" : "22"
+    },
+    "media" : {
+      "caption" : "",
+      "credit" : "",
+      "url" : "<iframe src='https://masterqunb.herokuapp.com/story/56af57ed15cd740300d36205/view#' frameborder='0'></iframe>",
+      "thumbnail" : ""
+    },
+    "text" : {
+      "headline" : "<span style='background-color: #1EFF53'>Semaine #25 - Voix des clients</span>",
+      "text" : ""
+    },
+    "group" : "Voix des clients"
+  }, {
+    "start_date" : {
+      "year" : "2014",
+      "month" : "5",
+      "day" : "16"
+    },
+    "end_date" : {
+      "year" : "2014",
+      "month" : "5",
+      "day" : "22"
+    },
+    "media" : {
+      "caption" : "",
+      "credit" : "",
+      "url" : "<iframe src='https://masterqunb.herokuapp.com/story/56af57ee2dfe5c03000d889a/view#' frameborder='0'></iframe>",
+      "thumbnail" : ""
+    },
+    "text" : {
+      "headline" : "<span style='background-color: #1EFF53'>Semaine #25 - Commercialisation</span>",
+      "text" : ""
+    },
+    "group" : "Commercialisation"
+  }, {
+    "start_date" : {
+      "year" : "2014",
+      "month" : "5",
+      "day" : "16"
+    },
+    "end_date" : {
+      "year" : "2014",
+      "month" : "5",
+      "day" : "22"
+    },
+    "media" : {
+      "caption" : "",
+      "credit" : "",
+      "url" : "<iframe src='https://masterqunb.herokuapp.com/story/56af57ee15cd740300d36206/view#' frameborder='0'></iframe>",
+      "thumbnail" : ""
+    },
+    "text" : {
+      "headline" : "<span style='background-color: #E69795'>Semaine #25 - Attrition</span>",
+      "text" : ""
+    },
+    "group" : "Attrition"
+  }, {
+    "start_date" : {
+      "year" : "2014",
+      "month" : "5",
+      "day" : "16"
+    },
+    "end_date" : {
+      "year" : "2014",
+      "month" : "5",
+      "day" : "22"
+    },
+    "media" : {
+      "caption" : "",
+      "credit" : "",
+      "url" : "<iframe src='https://masterqunb.herokuapp.com/story/56af57ef15cd740300d36207/view#' frameborder='0'></iframe>",
+      "thumbnail" : ""
+    },
+    "text" : {
+      "headline" : "<span style='background-color: #1EFF53'>Semaine #25 - Acquisition</span>",
       "text" : ""
     },
     "group" : "Acquisition"
