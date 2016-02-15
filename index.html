@@ -30,19 +30,12 @@
     
     -->
   </head>
-  <body>
-    <div id="timeline"></div>
-    <!-- JavaScript-->
-    <script src="../js/timeline.js"></script>
-    <script>
-      timeline = new TL.Timeline('timeline', 'datastories.json', {});
-      setTimeout(
-        function(){ 
-          //$('.tl-slidenav-next').remove();
-          $('.tl-slidenav-previous').remove();
-          $('.tl-slidenav-next').on('click', function(e){$('.tl-slidenav-next').remove();})
-        },
-        3000);  
-    </script>
+  <body><h1>Archives des rapports hebdomadaires EverContact.com 2014</h1>
+    <ul>
+    <li><a href="datastoriesQ1.html">Q1 : 2013-12-30 au 2014-03-30</a></li>
+    <li><a href="datastoriesQ2.html">Q2 : 2014-03-31 au 2014-06-29</a></li>
+    <li><a href="datastoriesQ3.html">Q3 : 2014-06-30 au 2014-09-28</a></li>
+    <li><a href="datastoriesQ4.html">Q4 : 2014-09-29 au 2015-01-04</a></li>
+  </ul>
   </body>
 </html>
