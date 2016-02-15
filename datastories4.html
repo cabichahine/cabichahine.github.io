@@ -1,7 +1,8 @@
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Ve Insight</title>
+    <title>evercontact.com - Demo Combi</title>
     <meta charset="utf-8">
     <meta name="description" content="TimelineJS Embed">
     <meta name="apple-mobile-web-app-capable" content="yes">
@@ -35,7 +36,7 @@
     <!-- JavaScript-->
     <script src="../js/timeline.js"></script>
     <script>
-      timeline = new TL.Timeline('timeline', 'datastories1.json', {});
+      timeline = new TL.Timeline('timeline', 'datastories4.json', {});
       setTimeout(
         function(){ 
           $('.tl-icon-zoom-out').click();
@@ -47,7 +48,7 @@
           $('.tl-slidenav-previous').remove();
           $('.tl-slidenav-next').on('click', function(e){$('.tl-slidenav-next').remove();})
         },
-        3000);  
+        1500);  
     </script>
   </body>
 </html>
